@@ -18,7 +18,9 @@ I’m currently learning about data structures and algorithms : *https://www.fre
 ### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/carlos-gimenez-a267b4222/" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
-&nbsp; &nbsp;
+<a href="mailto:gimenez.22axl@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
 <a href="https://discord.com/users/poroto#6384"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
 <a href="https://www.facebook.com/carlos.gimenez.585"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px">
 
