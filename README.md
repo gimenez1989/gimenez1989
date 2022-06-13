@@ -4,7 +4,7 @@
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--nC1yoqNf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png" width="80%" title="Intro Card" alt="Intro Card">
 </p>
 
-I’m currently learning about data structures and algorithms : *https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5*
+Actualmente estoy aprendiendo sobre estructuras de datos y algoritmos: *https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5*
 
 ### Programming Languages 🌐
   <img src = "https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26"> <img src = "https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6">
