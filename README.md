@@ -24,7 +24,7 @@ I’m currently learning about data structures and algorithms : *https://www.fre
 
 <img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant">
 
-⭐️ From [gimenez1989](https://github.com/gimenez1989)
+⭐️ From [@BRdhanani](https://github.com/BRdhanani)
 <!--
 **gimenez1989/gimenez1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
