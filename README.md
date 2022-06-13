@@ -1,8 +1,11 @@
 # !Hola! Soy Carlos Gimenez 👋
 
+![Web-developer](https://res.cloudinary.com/practicaldev/image/fetch/s--nC1yoqNf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png)
+<!--
 <p align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--nC1yoqNf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png" width="80%" title="Intro Card" alt="Intro Card">
-</>
+</p>
+-->
 
 Actualmente estoy aprendiendo sobre estructuras de datos y algoritmos: *https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5*
 
