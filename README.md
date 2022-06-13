@@ -4,6 +4,8 @@
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--nC1yoqNf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png" width="80%" title="Intro Card" alt="Intro Card">
 </p>
 
+I’m currently learning about data structures and algorithms : *[https://algorithm.show](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)*
+
 ### Programming Languages 🌐
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
