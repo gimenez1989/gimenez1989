@@ -1,5 +1,5 @@
   # !Hola! Soy Carlos Gimenez 👋
-<i>Follow me:</i><br>
+
 <p align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--nC1yoqNf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png" width="80%" title="Intro Card" alt="Intro Card">
 </p>
@@ -23,7 +23,7 @@ Actualmente estoy aprendiendo sobre estructuras de datos y algoritmos: [FreeCode
   </a>
 <a href="https://discord.com/users/poroto#6384"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
 <a href="https://www.facebook.com/carlos.gimenez.585"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
-
+<i>Follow me:</i><br>
 **⭐️ From [gimenez1989](https://github.com/gimenez1989)**
 <!--
 **gimenez1989/gimenez1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
