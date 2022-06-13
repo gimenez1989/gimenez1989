@@ -25,7 +25,7 @@ I’m currently learning about data structures and algorithms : *https://www.fre
 <a href="https://discord.com/users/poroto#6384"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
 <a href="https://www.facebook.com/carlos.gimenez.585"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px">
 
-<img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
+<img align="right" width="70" height="25" src="https://profile-counter.glitch.me/SatYu26/count.svg">
 
 ⭐️ From [gimenez1989](https://github.com/gimenez1989)
 <!--
