@@ -13,7 +13,7 @@ I’m currently learning about data structures and algorithms : *https://www.fre
   
 ### Tools 🛠️
  <img src="http://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F1502F"> 
- <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=logoColor=F1502F">
+ <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
   
 ### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
