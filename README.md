@@ -7,8 +7,7 @@
 I’m currently learning about data structures and algorithms : *https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5*
 
 ### Programming Languages 🌐
-  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript]
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript]
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
   
@@ -20,7 +19,6 @@ I’m currently learning about data structures and algorithms : *https://www.fre
 ### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/carlos-gimenez-a267b4222/" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="mailto:gimenez.22axl@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
 <a href="https://discord.com/users/poroto#6384"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
 <a href="https://www.facebook.com/carlos.gimenez.585"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px">
