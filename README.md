@@ -1,4 +1,4 @@
- <h1 aling="center">
+ <h1 text-aling="center">
    !Hola! Soy Carlos Gimenez 👋
 </h1>
 <p align="center">
