@@ -1,8 +1,10 @@
 # !Hola! Soy Carlos Gimenez 👋
 
 ### Programming Languages 🌐
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavasScript" width="24">
+| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavasScript" width="24">
 <img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-icono-de-lenguaje-de-programacion-html.png" alt="Html"
+|---|---|
+### Tools 🛠️
 <!--
 **gimenez1989/gimenez1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
