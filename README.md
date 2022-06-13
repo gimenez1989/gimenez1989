@@ -8,7 +8,7 @@ Actualmente estoy aprendiendo sobre estructuras de datos y algoritmos: [FreeCode
 
 ### Programming Languages 🌐
   <img src = "https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26"> <img src = "https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=E9DD25">
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=D8CC18">
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
   
 ### Tools 🛠️
