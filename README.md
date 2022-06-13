@@ -18,7 +18,7 @@
 ### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/carlos-gimenez-a267b4222/" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="gimenez.22axl@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+<a href="mailto:gimenez.22axl@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
 
 <img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
