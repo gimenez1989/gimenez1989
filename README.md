@@ -12,7 +12,7 @@
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
   
 ### You can find in me in the web 🌍
-<a href="https://www.linkedin.com/in/carlos-gimenez-a267b4222/" target="https://www.linkedin.com/in/carlos-gimenez-a267b4222/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/carlos-gimenez-a267b4222/" Target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
