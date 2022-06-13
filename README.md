@@ -5,6 +5,11 @@
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+  
+### Tools 🛠️
+  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <!--
 **gimenez1989/gimenez1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
